@@ -6,7 +6,7 @@
 
 ---
 
-The majority of brain strokes are caused by an unanticipated obstruction of the heart's and brain's regular operations. Researchers can use a variety of machine learning techniques to forecast the likelihood of a stroke occurring. This report studies the use of machine learning techniques to predict the long-term outcomes of stroke victims. By developing and analyzing several machine learning models, we can accurately predict strokes, which is crucial for early treatment. The dataset included 5110 observations of patients who had suffered a stroke and their modifiable risk factors.
+The majority of brain strokes are caused by an unanticipated obstruction of the heart's and brain's regular operations. Researchers can use a variety of machine learning techniques to forecast the likelihood of a stroke occurring. This project studies the use of machine learning techniques to predict the long-term outcomes of stroke victims. By developing and analyzing several machine learning models, we can accurately predict strokes, which is crucial for early treatment. The dataset included 5110 observations of patients who had suffered a stroke and their modifiable risk factors.
 
 *Keywords: Stroke, predictive analytics, brain, machine learning, data analysis*
 
